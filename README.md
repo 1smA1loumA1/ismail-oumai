@@ -9,9 +9,11 @@
   <a href="https://1sma1louma1.github.io/portfolio-io"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blueviolet?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,php,laravel,python,git,github,mysql,mongodb,vscode&theme=dark" />
+</p>
 
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="100%" height="300px" />
+---
 
 ## 🚀 About Me
 
@@ -37,8 +39,6 @@ const IsmailOumai = {
 🎧 Check my sounds: SoundCloud
  | YouTube
 
-🧰 Tech Toolbox
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,php,laravel,python,git,github,mysql,mongodb,vscode,figma" /> </p>
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=1sma1louma1&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="48%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=1sma1louma1&theme=radical&hide_border=true&border_radius=10" width="48%" /> </p>
 ⚡ Featured Projects
@@ -57,4 +57,4 @@ const IsmailOumai = {
 “Code what you dream. Create what you feel.”
 — Ismail Oumai
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p> ```
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> </p>
